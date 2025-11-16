@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/alex/Dev/schat/build/cmake.run.linux.x86_64.Local",
+  "command": "/usr/bin/c++ -I/home/alex/Dev/schat/build/cmake.run.linux.x86_64.Local -I/home/alex/Dev/schat/build/cmake.run.linux.x86_64.Local/_deps/nlohmann_json-src/include -O3 -DNDEBUG -o CMakeFiles/SChat.dir/SChat.cpp.o -c /home/alex/Dev/schat/SChat.cpp",
+  "file": "/home/alex/Dev/schat/SChat.cpp",
+  "output": "CMakeFiles/SChat.dir/SChat.cpp.o"
+}
+]
