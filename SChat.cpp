@@ -2,7 +2,6 @@
 #include <nlohmann/json.hpp>
 #include <fstream>
 
-#include "config.h"
 
 int main(int argc, char **argv) {
 	std::ifstream file("config.json");
