@@ -1,5 +1,0 @@
-/home/alex/Dev/schat/build/cmake.run.linux.x86_64.Local/CMakeFiles/SChat.dir
-/home/alex/Dev/schat/build/cmake.run.linux.x86_64.Local/CMakeFiles/edit_cache.dir
-/home/alex/Dev/schat/build/cmake.run.linux.x86_64.Local/CMakeFiles/rebuild_cache.dir
-/home/alex/Dev/schat/build/cmake.run.linux.x86_64.Local/_deps/nlohmann_json-build/CMakeFiles/edit_cache.dir
-/home/alex/Dev/schat/build/cmake.run.linux.x86_64.Local/_deps/nlohmann_json-build/CMakeFiles/rebuild_cache.dir
