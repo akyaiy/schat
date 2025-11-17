@@ -22,8 +22,6 @@ target_link_libraries(${PROJECT_NAME}
     PRIVATE nlohmann_json::nlohmann_json
 )
 
-configure_file(config.h.in config.h)
-
 target_include_directories(${PROJECT_NAME}
     PUBLIC "${PROJECT_BINARY_DIR}"
 )
